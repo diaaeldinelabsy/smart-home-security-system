@@ -1,5 +1,5 @@
 # ------------------------------------------------------------
-# Project: Smart Home Security System using Raspberry Pi
+# Project: Smart Home Security System
 # Author: DiaaEldin Elabsy
 # Date: (Apr–Jun) 2025 
 # Description:
