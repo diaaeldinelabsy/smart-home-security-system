@@ -1,7 +1,7 @@
 # ------------------------------------------------------------
 # Project: Smart Home Security System using Raspberry Pi
 # Author: DiaaEldin Elabsy
-# Date: April 2025
+# Date: (Apr–Jun) 2025 
 # Description:
 # This program monitors motion using a PIR sensor and checks proximity
 # using an ultrasonic sensor. If motion is detected and the object is
